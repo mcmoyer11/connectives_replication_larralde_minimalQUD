@@ -1,0 +1,217 @@
+Group,Screen11,Screen12,Screen13,Word,Screen2,Screen3,Screen4,Screen5,Screen6,Screen7,Screen8,,,
+A,A,C,E,ACE,There is no X but,filler but,there is a C.,Filler1.17,VCV,J,NegativePositive,,Initially True Neg,TT
+B,A,C,E,ACE,There is an E so ,filler so,there is a C.,Filler2.33,VCV,J,PositivePositive ,,Initially True Neg,TT
+A,A,C,T,ACT,There is no G but,filler but,there is a V.,Filler1.21,VCC,F,NegativePositive,,Intitially False,FT
+B,A,C,T,ACT,There is a G but,filler but,there is a C.,Filler2.2,VCC,F,PositivePositive,,,
+A,A,F,T,AFT,There is an F and,and ,there is no J.,T1.24,VCC,J,PositiveNegative,,Initially True Neg,TF
+B,A,F,T,AFT,There is an F but,but,there is a T.,T2.28,VCC,J,PositivePositive,,Initially True Neg,TT
+A,A,G,E,AGE,There is an E and ,filler and ,there is an I.,Filler1.34,VCV,F,PositivePositive,,Initially True Neg,TT
+B,A,G,E,AGE,There is no K and,filler and,there is a G.,Filler2.10,VCV,J,NegativePositive,,,
+A,A,G,O,AGO,There is an O but,filler but,there is a V.,Filler1.35,VCV,F,PositivePositive,,,
+B,A,G,O,AGO,There is a P so ,filler so,there is an O.,Filler2.3,VCV,F,PositivePositive,,Intitially False,FT
+A,A,L,E,ALE,There is an L and,and ,there is no Z.,T1.23,VCV,J,PositiveNegative,,,
+B,A,L,E,ALE,There is an A and,and,there is an L.,T2.2,VCV,J,PositivePositive,,,
+A,A,M,I,AMI,There is an M but,but,there is no F.,T1.42,VCV,J,PositiveNegative,,Intitially False,FT
+B,A,M,I,AMI,There is an M but,but,there is no F.,T2.25,VCV,J,PositiveNegative,,,
+A,A,N,T,ANT,There is an N but,but,there is a V.,T1.45,VCC,F,PositivePositive,,Initially True Neg,TT
+B,A,N,T,ANT,There is a K and,filler and,there is a T.,Filler2.1,VCC,F,PositivePositive,,,
+A,A,P,E,APE,There is a P but,but,there is an N.,T1.41,VCV,F,PositivePositive,,,
+B,A,P,E,APE,There is no O and,filler and,there is a P.,Filler2.11,VCV,J,NegativePositive,,Intitially False,FT
+A,A,P,T,APT,There is a P so,so,there is no T.,T1.65,VCC,F,PositiveNegative,,,
+B,A,P,T,APT,There is a P and,and,there is a U.,T2.11,VCC,F,PositivePositive,,Initially True Neg,TT
+A,A,R,E,ARE,There is an E so,filler so,there is an S.,Filler1.36,VCV,F,PositivePositive,,Initially True Neg,TT
+B,A,R,E,ARE,There is no P and,filler and,there is no U.,Filler2.25,VCV,J,NegativeNegative,,Initially True Neg,TT
+A,A,R,K,ARK,There is an A and,and,there is a K.,T1.16,VCC,J,PositivePositive,,Initially True Neg,TT
+B,A,R,K,ARK,There is no V but,filler but,there is a K.,Filler2.17,VCC,J,NegativePositive,,Initially True Neg,TT
+A,A,R,M,ARM,There is an R but,but,there is no J.,T1.46,VCC,J,PositiveNegative,,,
+B,A,R,M,ARM,There is an A but,but,there is no M.,T2.29,VCC,F,PositiveNegative,,,
+A,A,R,T,ART,There is an A so,so,there is a Z.,T1.66,VCC,F,PositivePositive,,CB,TF
+B,A,R,T,ART,There is an A so ,so,there is a V.,T2.66,VCC,F,PositivePositive,,Initially True Neg,TF
+A,A,S,H,ASH,There is no P but,filler but,there is an F.,Filler1.22,VCC,F,NegativePositive,,Intitially False,FT
+B,A,S,H,ASH,There is no V and,filler and,there is no H.,Filler2.23,VCC,F,NegativeNegative,,,
+A,A,S ,K,ASK,There is an S but,but,there is a K.,T1.47,VCC,J,PositivePositive,,Initially True Neg,TT
+B,A,S ,K,ASK,There is no D but,filler but,there is a K.,Filler2.19,VCC,J,NegativePositive,,Initially True Neg,TT
+A,A,S,P,ASP,There is an S so,so,there is no D.,T1.67,VCC,J,PositiveNegative,,,
+B,A,S,P,ASP,There is an S but,but,there is no R.,T2.42,VCC,J,PositiveNegative,,Intitially False,FT
+A,A,T,E,ATE,There is a T so,so,there is no E.,T1.61,VCV,F,PositiveNegative,,,
+B,A,T,E,ATE,There is a T but,but,there is no E.,T2.38,VCV,F,PositiveNegative,,Intitially False,FT
+A,A,X,E,AXE,There is an X and,and,there is an E.,T1.13,VCV,J,PositivePositive,,Initially True Neg,TT
+B,A,X,E,AXE,There is an A so ,so,there is no G.,T2.58,VCV,J,PositiveNegative,,Intitially False,FT
+A,B,A,D,BAD,There is no X and,filler and,there is no J.,Filler1.25,CVC,J,NegativeNegative,,CB,TT
+B,B,A,D,BAD,There is a B but,but,there is no A.,T2.30,CVC,F,PositiveNegative,,,
+A,B,A,G,BAG,There is a B and,and,there is a G.,T1.1,CVC,J,PositivePositive,,Initially True Neg,TT
+B,B,A,G,BAG,There is no V and,filler and,there is no M.,Filler2.26,CVC,J,NegativeNegative,,Initially True Neg,TT
+A,B,A,Y,BAY,There is a B and,and,there is a Y.,T1.7,CVV,J,PositivePositive,,Intitially False,FT
+B,B,A,Y,BAY,There is a B so ,so,there is an A.,T2.68,CVV,J,PositivePositive,,,
+A,B,E,D,BED,There is a B but,but,there is no L.,T1.25,CVC,J,PositiveNegative,,Intitially False,FT
+B,B,E,D,BED,There is a B and ,and ,there is no X.,T2.24,CVC,J,PositiveNegative,,Initially True Neg,TT
+A,B,I,N,BIN,There is a B so,so,there is an F.,T1.49,CVC,F,PositivePositive,,Initially True Neg,TF
+B,B,I,N,BIN,There is no X but,filler but,there is a B.,Filler2.20,CVC,J,NegativePositive,,CB,TF
+A,B,I,O,BIO,There is no L but,filler but,there is a B.,Filler1.20,CVV,J,NegativePositive,,Intitially False,FT
+B,B,I,O,BIO,There is a B so ,so,there is no L.,T2.67,CVV,J,PositiveNegative,,,
+A,B,O,X,BOX,There is an S and,filler and,there is an O.,Filler1.1,CVC,F,PositivePositive,,,
+B,B,O,X,BOX,There is a B so ,so,there is no N.,T2.52,CVC,J,PositiveNegative,,Intitially False,FT
+A,B,O,Y,BOY,There is a B but,but,there is no F.,T1.33,CVV,J,PositiveNegative,,Intitially False,FT
+B,B,O,Y,BOY,There is a B but,but,there is no H.,T2.33,CVV,J,PositiveNegative,,,
+A,B,U,S,BUS,There is no T but,filler but ,there is no V.,Filler1.29,CVC,J,NegativeNegative,,CB,TT
+B,B,U,S,BUS,There is a B and,and,there is a U.,T2.7,CVC,J,PositivePositive,,Intitially False,FT
+A,B,U,Y,BUY,There is a B so,so,there is a P.,T1.55,CVV,F,PositivePositive,,,
+B,B,U,Y,BUY,There is no S and,filler and,there is a T.,Filler2.14,CVV,F,NegativePositive,,CB,TT
+A,B,Y,E,BYE,There is no L and,filler and,there is an E.,Filler1.9,CVV,J,NegativePositive,,Initially True Neg,TT
+B,B,Y,E,BYE,There is a B so ,so,there is no Y.,T2.61,CVV,F,PositiveNegative,,Initially True Neg,TT
+A,C,A,R,CAR,There is a C and,and,there is an R.,T1.2,CVC,J,PositivePositive,,CB,TF
+B,C,A,R,CAR,There is a C but,but,there is no R.,T2.48,CVC,F,PositiveNegative,,Initially True Neg,TT
+A,C,U,E,CUE,There is a C and,and,there is a U.,T1.8,CVV,J,PositivePositive,,,
+B,C,U,E,CUE,There is no C and,filler and,there is an E.,Filler2.4,CVV,F,NegativePositive,,,
+A,D,A,Y,DAY,There is a D but,but,there is no S.,T1.34,CVV,J,PositiveNegative,,Initially True Neg,TF 
+B,D,A,Y,DAY,There is a D and,and,there is a Y.,T2.13,CVV,J,PositivePositive,,Initially True Neg,TT
+A,D,O,E,DOE,There is a D so,so,there is an X.,T1.56,CVV,F,PositivePositive,,,
+B,D,O,E,DOE,There is no N and,filler and,there is no O.,Filler2.24,CVV,F,NegativeNegative,,Initially True Neg,TT
+A,D,O,G,DOG,There is a D but,but,there is no V.,T1.26,CVC,J,PositiveNegative,,,
+B,D,O,G,DOG,There is a D and,and,there is a K.,T2.6,CVC,F,PositivePositive,,Initially True Neg,TF
+A,D,O,T,DOT,There is a D so,so,there is a G.,T1.50,CVC,F,PositivePositive,,Initially True Neg,TT
+B,D,O,T,DOT,There is no U but,filler but ,there is no T.,Filler2.27,CVC,F,NegativeNegative,,,
+A,D,U,E,DUE,There is no J and,filler and,there is a U.,Filler1.10,CVV,J,NegativePositive,,,
+B,D,U,E,DUE,There is no C and,filler and,there is a D.,Filler2.7,CVV,J,NegativePositive,,Initially True Neg,TT
+A,E,G,O,EGO,There is a G but,but,there is an O.,T1.43,VCV,J,PositivePositive,,Initially True Neg,TF
+B,E,G,O,EGO,There is a G and ,and,there is an O.,T2.16,CVV,J,PositivePositive,,Initially True Neg,TF
+A,E,L,F,ELF,There is no J and,filler and,there is no E.,Filler1.23,VCC,F,NegativeNegative,,,
+B,E,L,F,ELF,There is an L but,but,there is an N.,T2.39,VCC,F,PositivePositive,,,
+A,E,M,U,EMU,There is an M so,so,there is a Q.,T1.62,VCV,F,PositivePositive,,,
+B,E,M,U,EMU,There is no Q and,filler and,there is a U.,Filler2.12,VCV,J,NegativePositive,,,
+A,E,R,A,ERA,There is no N but,filler but,there is an E.,Filler1.18,VCV,J,NegativePositive,,,
+B,E,R,A,ERA,There is an E so ,so,there is an I.,T2.62,VCV,F,PositivePositive,,,
+A,F,E,Y,FEY,There is an E but,but,there is a Y.,T1.35,CVV,J,PositivePositive,,Initially True Neg,TT
+B,F,E,Y,FEY,There is an F so ,so ,there is a Y.,T2.69,CVV,J,PositivePositive,,,
+A,F,I,X,FIX,There is a P but,filler but,there is an F.,Filler1.2,CVC,F,PositivePositive,,,
+B,F,I,X,FIX,There is an F so ,so,there is no P.,T2.57,CVC,J,PositiveNegative,,,
+A,F,O,E,FOE,There is an F so,so,there is no T.,T1.57,CVV,J,PositiveNegative,,,
+B,F,O,E,FOE,There is an F and,and,there is no O.,T2.10,CVV,F,PositiveNegative,,Intitially False,FT
+A,F,O,X,FOX,There is an F but,but,there is an X.,T1.27,CVC,J,PositivePositive,,Initially True Neg,TT
+B,F,O,X,FOX,There is an F but,but,there is no D.,T2.46,CVC,J,PositiveNegative,,,
+A,F,U,N,FUN,There is a U so,so,there is no S.,T1.51,CVC,J,PositiveNegative,,,
+B,F,U,N,FUN,There is an F and,and,there is a P.,T2.15,CVC,F,PositivePositive,,,
+A,G,A,Y,GAY,There is no T and,filler and,there is an A.,Filler1.11,CVV,J,NegativePositive,,,
+B,G,A,Y,GAY,There is a G so ,so,there is no Y.,T2.65,CVV,F,PositiveNegative,,Initially True Neg,TF
+A,G,U,M,GUM,There is a V so,filler so,there is an M.,Filler1.3,CVC,F,PositivePositive,,,
+B,G,U,M,GUM,There is a G so ,so,there is an L.,T2.55,CVC,F,PositivePositive,,,
+A,G,U,Y,GUY,There is a G and,and,there is no U.,T1.9,CVV,F,PositiveNegative,,CB,TF
+B,G,U,Y,GUY,There is a G and,and,there is a Y.,T2.8,CVV,J,PositivePositive,,,
+A,G,Y,M,GYM,There is a Y and,and,there is no M.,T1.3,CVC,F,PositiveNegative,,,
+B,G,Y,M,GYM,There is a Y and,and ,there is no A.,T2.21,CVC,J,PositiveNegative,,,
+A,H,E,N,HEN,There is no S but,filler but ,there is no B.,Filler1.30,CVC,J,NegativeNegative,,Initially True Neg,TF
+B,H,E,N,HEN,There is an E but,but,there is an L.,T2.45,CVC,F,PositivePositive,,Initially True Neg,TT
+A,H,E,Y,HEY,There is an E but,but,there is a Y.,T1.36,CVV,J,PositivePositive,,,
+B,H,E,Y,HEY,There is an E so ,so ,there is a Y.,T2.70,CVV,J,PositivePositive,,Initially True Neg,TT
+A,I,C,E,ICE,There is no R but,filler but,there is a C.,Filler1.19,VCV,J,NegativePositive,,,
+B,I,C,E,ICE,There is an E and,filler and ,there is a P.,Filler2.34,VCV,F,PositivePositive,,,
+A,I,C,Y,ICY,There is a C and,and,there is no Y.,T1.14,VCV,F,PositiveNegative,,,
+B,I,C,Y,ICY,There is a C and,and,there is no Y.,T2.4,VCV,F,PositiveNegative,,,
+A,I,N,K,INK,There is an N so,so,there is a K.,T1.68,VCC,J,PositivePositive,,Initially True Neg,TF
+B,I,N,K,INK,There is no F but,filler but,there is a D.,Filler2.21,VCC,F,NegativePositive,,CB,TF
+A,I,R,E,IRE,There is an R so,so,there is no L.,T1.63,VCV,J,PositiveNegative,,Initially True Neg,TT
+B,I,R,E,IRE,There is an R but,but,there is no Q.,T2.26,VCV,J,PositiveNegative,,Intitially False,FT
+A,I,V,Y,IVY,There is a V so,so,there is a Y.,T1.64,VCV,J,PositivePositive,,,
+B,I,V,Y,IVY,There is a V so ,so ,there is a Y.,T2.71,VCV,J,PositivePositive,,CB,TT
+A,J,A,M,JAM,There is a J but,but,there is an M.,T1.28,CVC,J,PositivePositive,,Initially True Neg,TT
+B,J,A,M,JAM,There is a J so ,so,there is no A.,T2.54,CVC,F,PositiveNegative,,Initially True Neg,TF
+A,J,A,R,JAR,There is a J so,so,there is no F.,T1.52,CVC,J,PositiveNegative,,,
+B,J,A,R,JAR,There is a J but,but,there is no S.,T2.34,CVC,J,PositiveNegative,,Initially True Neg,TT
+A,J,A,Y,JAY,There is a J so,so,there is no M.,T1.58,CVV,J,PositiveNegative,,,
+B,J,A,Y,JAY,There is a J and,and ,there is no M.,T2.22,CVV,J,PositiveNegative,,Initially True Neg,TF
+A,J,O,B,JOB,There is no O and,filler and,there is a B.,Filler1.4,CVC,F,NegativePositive,,,
+B,J,O,B,JOB,There is a B so ,filler so,there is a T.,Filler2.36,CVC,F,PositivePositive,,,
+A,K,E,Y,KEY,There is no C and,filler and,there is a K.,Filler1.12,CVV,J,NegativePositive,,Initially True Neg,TT
+B,K,E,Y,KEY,There is no Q but,filler but,there is a U.,Filler2.22,CVV,F,NegativePositive,,Initially True Neg,TF
+A,K,I,T,KIT,There is a K and,and,there is no T.,T1.4,CVC,F,PositiveNegative,,Initially True Neg,TT
+B,K,I,T,KIT,There is a K and,and,there is no T.,T2.9,CVC,F,PositiveNegative,,CB,TF
+A,L,A,Y,LAY,There is an L and,and,there is no Y.,T1.10,CVV,F,PositiveNegative,,Initially True Neg,TT
+B,L,A,Y,LAY,There is an L and,and,there is no Y.,T2.3,CVV,F,PositiveNegative,,Initially True Neg,TT
+A,L,E,G,LEG,There is an L so,so ,there is a G.,T1.69,CVC,J,PositivePositive,,Initially True Neg,TT
+B,L,E,G,LEG,There is no U but,filler but ,there is no G.,Filler2.28,CVC,F,NegativeNegative,,CB,TF
+A,L,E,Y,LEY,There is no F and,filler and,there is no M.,Filler1.26,CVV,J,NegativeNegative,,Intitially False,FT
+B,L,E,Y,LEY,There is an L and ,and ,there is no P.,T2.23,CVV,J,PositiveNegative,,Intitially False,FT
+A,L,I,E,LIE,There is an L so,so ,there is an I.,T1.71,CVV,J,PositivePositive,,CB,TT
+B,L,I,E,LIE,There is an L so ,so,there is an O.,T2.56,CVV,F,PositivePositive,,,
+A,M,A,N,MAN,There is no M but,filler but,there is an A.,Filler1.5,CVC,F,NegativePositive,,Initially True Neg,TT
+B,M,A,N,MAN,There is an M so ,so,there is an N.,T2.64,CVC,J,PositivePositive,,Initially True Neg,TT
+A,M,A,P,MAP,There is an A and,and,there is a C.,T1.5,CVC,F,PositivePositive,,Initially True Neg,TF
+B,M,A,P,MAP,There is no L but,filler but ,there is no B.,Filler2.30,CVC,J,NegativeNegative,,CB,TT
+A,M,A,Y,MAY,There is no O and,filler and,there is a C.,Filler1.13,CVV,F,NegativePositive,,Initially True Neg,TT
+B,M,A,Y,MAY,There is a Y but,filler but,there is an M.,Filler2.32,CVV,J,PositivePositive ,,Initially True Neg,TT
+A,M,O,P,MOP,There is an O but,but,there is no P.,T1.29,CVC,F,PositiveNegative,,Initially True Neg,TF
+B,M,O,P,MOP,There is an O and,and,there is no P.,T2.17,CVC,F,PositiveNegative,,Intitially False,FT
+A,N,A,P,NAP,There is an N so,so ,there is a P.,T1.70,CVC,J,PositivePositive,,,
+B,N,A,P,NAP,There is no J but,filler but,there is a P.,Filler2.15,CVC,J,NegativePositive,,Intitially False,FT
+A,O,D,E,ODE,There is no C but,filler but ,there is no D.,Filler1.28,VCV,F,NegativeNegative,,,
+B,O,D,E,ODE,There is a D but,but,there is an E.,T2.43,VCV,J,PositivePositive,,Initially True Neg,TF
+A,O,F,T,OFT,There is no J and,filler and,there is no T.,Filler1.24,VCC,F,NegativeNegative,,Initially True Neg,TT
+B,O,F,T,OFT,There is an O and,and,there is a Y.,T2.12,VCC,F,PositivePositive,,CB,TF
+A,O,L,D,OLD,There is an L and,and,there is a P.,T1.18,VCC,F,PositivePositive,,CB,TF
+B,O,L,D,OLD,There is no G and,filler and,there is a K.,Filler2.13,VCC,F,NegativePositive,,CB,TT
+A,O,N,E,ONE,There is an N and,and,there is an A.,T1.15,VCV,F,PositivePositive,,Initially True Neg,TT
+B,O,N,E,ONE,There is no B but,filler but ,there is no V.,Filler2.29,VCV,J,NegativeNegative,,Initially True Neg,TT
+A,O,P,T,OPT,There is a P and,and,there is no T.,T1.17,VCC,F,PositiveNegative,,,
+B,O,P,T,OPT,There is a P but,but,there is a K.,T2.40,VCC,F,PositivePositive,,Initially True Neg,TT
+A,O,R,E,ORE,There is an E so,filler so,there is an O.,Filler1.33,VCV,J,PositivePositive ,,Intitially False,FT
+B,O,R,E,ORE,There is an O so,so,there is no E.,T2.53,VCV,F,PositiveNegative,,CB,TT
+A,P,A,Y,PAY,There is a P and,and,there is a K.,T1.11,CVV,F,PositivePositive,,,
+B,P,A,Y,PAY,There is no I but,filler but,there is a Y.,Filler2.16,CVV,J,NegativePositive,,,
+A,P,E,A,PEA,There is a P but,but,there is no E.,T1.37,CVV,F,PositiveNegative,,,
+B,P,E,A,PEA,There is a P but,but,there is an E.,T2.35,CVV,J,PositivePositive,,,
+A,P,E,T,PET,There is no P so,filler so,there is an E.,Filler1.6,CVC,F,NegativePositive,,Intitially False,FT
+B,P,E,T,PET,There is a P so ,so,there is no E.,T2.60,CVC,F,PositiveNegative,,CB,TF
+A,P,I,E,PIE,There is a P so,so ,there is an E.,T1.72,CVV,J,PositivePositive,,Initially True Neg,TT
+B,P,I,E,PIE,There is a P so ,so,there is no I.,T2.59,CVV,F,PositiveNegative,,,
+A,P,I,T,PIT,There is a P and,and,there is a V.,T1.6,CVC,F,PositivePositive,,,
+B,P,I,T,PIT,There is a P so ,so ,there is a T.,T2.72,CVC,J,PositivePositive,,,
+A,R,A,T,RAT,There is a T and ,filler and ,there is an R.,Filler1.31,CVC,J,PositivePositive ,,CB,TT
+B,R,A,T,RAT,There is an A so ,so,there is a C.,T2.50,CVC,F,PositivePositive,,,
+A,R,A,Y,RAY,There is no E and,filler and,there is T.,Filler1.14,CVV,F,NegativePositive,,Initially True Neg,TF
+B,R,A,Y,RAY,There is an R and,and,there is a Y.,T2.1,CVV,J,PositivePositive,,Initially True Neg,TT
+A,R,E,D,RED,There is an R but,but,there is no D.,T1.30,CVC,F,PositiveNegative,,Initially True Neg,TT
+B,R,E,D,RED,There is an E but,but,there is a V.,T2.41,CVC,F,PositivePositive,,Intitially False,FT
+A,R,I,B,RIB,There is no V and,filler and,there is an R.,Filler1.7,CVC,J,NegativePositive,,Intitially False,FT
+B,R,I,B,RIB,There is an I so ,so,there is a K.,T2.49,CVC,F,PositivePositive,,,
+A,R,O,E,ROE,There is an O and,and,there is an I.,T1.12,CVV,F,PositivePositive,,,
+B,R,O,E,ROE,There is an E but,filler but,there is an F.,Filler2.35,CVV,F,PositivePositive,,,
+A,R,U,G,RUG,There is a U and,and ,there is no C.,T1.19,CVC,J,PositiveNegative,,Initially True Neg,TT
+B,R,U,G,RUG,There is a U but,but,there is no G.,T2.44,CVC,F,PositiveNegative,,,
+A,R,U,N,RUN,There is a U but,but,there is an S.,T1.31,CVC,F,PositivePositive,,Initially True Neg,TF
+B,R,U,N,RUN,There is no L and,filler and,there is an N.,Filler2.8,CVC,J,NegativePositive,,,
+A,R,Y,E,RYE,There is a Y but,but,there is no E.,T1.38,CVV,F,PositiveNegative,,,
+B,R,Y,E,RYE,There is a Y but,but,there is an E.,T2.36,CVV,J,PositivePositive,,,
+A,S,A,Y,SAY,There is no B but,filler but,there is an S.,Filler1.15,CVV,J,NegativePositive,,,
+B,S,A,Y,SAY,There is an S but,but,there is a Y.,T2.47,CVV,J,PositivePositive,,,
+A,S ,E,A,SEA,There is an S and,and ,there is no K.,T1.21,CVV,J,PositiveNegative,,Initially True Neg,TF
+B,S ,E,A,SEA,There is an S but,but,there is an A.,T2.27,CVV,J,PositivePositive,,Initially True Neg,TF
+A,S,E,T,SET,There is a T but,filler but,there is an E.,Filler1.32,CVC,J,PositivePositive ,,,
+B,S,E,T,SET,There is an S so ,so,there is no O.,T2.63,CVC,J,PositiveNegative,,Initially True Neg,TF
+A,S ,I,P,SIP,There is an S so,so,there is no I.,T1.53,CVC,F,PositiveNegative,,Initially True Neg,TF
+B,S,I,P,SIP,There is an S but,but,there is a J.,T2.31,CVC,F,PositivePositive,,Initially True Neg,TT
+A,S ,O,Y,SOY,There is an S but,but,there is a U.,T1.39,CVV,F,PositivePositive,,,
+B,S ,O,Y,SOY,There is no S but,filler but,there is a Y.,Filler2.5,CVV,F,NegativePositive,,,
+A,S,U,E,SUE,There is a U so,so,there is no E.,T1.59,CVV,F,PositiveNegative,,,
+B,S,U,E,SUE,There is a U but,but,there is no E.,T2.37,CVV,F,PositiveNegative,,Initially True Neg,TT
+A,S ,U,N,SUN,There is no K and,filler and,there is a U.,Filler1.8,CVC,J,NegativePositive,,,
+B,S ,U,N,SUN,There is no S so,filler so,there is a U.,Filler2.6,CVC,F,NegativePositive,,Initially True Neg,TT
+A,T,A,B,TAB,There is a T and,and ,there is no F.,T1.20,CVC,J,PositiveNegative,,Initially True Neg,TF 
+B,T,A,B,TAB,There is a T but,but,there is a G.,T2.32,CVC,F,PositivePositive,,Initially True Neg,TF
+A,T,E,A,TEA,There is no V but,filler but,there is a T.,Filler1.16,CVV,J,NegativePositive,,,
+B,T,E,A,TEA,There is no M and,filler and,there is a T.,Filler2.9,CVV,J,NegativePositive,,Initially True Neg,TT
+A,T,I,E,TIE,There is a T and,and ,there is no N.,T1.22,CVV,J,PositiveNegative,,,
+B,T,I,E,TIE,There is a T and,and,there is a A.,T2.18,CVV,F,PositivePositive,,Initially True Neg,TT
+A,T,I,N,TIN,There is a T but,but,there is an F.,T1.32,CVC,F,PositivePositive,,,
+B,T,I,N,TIN,There is no C but,filler but,there is a T.,Filler2.18,CVC,J,NegativePositive,,,
+A,T,O,E,TOE,There is a T but,but,there is an A.,T1.40,CVV,F,PositivePositive,,,
+B,T,O,E,TOE,There is an E and,filler and ,there is a T.,Filler2.31,CVV,J,PositivePositive ,,,
+A,T,O,Y,TOY,There is a T so,so,there is no Y.,T1.60,CVV,F,PositiveNegative,,Initially True Neg,TF
+B,T,O,Y,TOY,There is a T and,and,there is a V.,T2.5,CVV,F,PositivePositive,,,
+A,U,R,N,URN,There is a U but,but,there is no N.,T1.48,VCC,F,PositiveNegative,,Initially True Neg,TT
+B,U,R,N,URN,There is a U and,and ,there is no M.,T2.19,VCC,J,PositiveNegative,,Initially True Neg,TF 
+A,U,S,E,USE,There is a U but,but,there is no S.,T1.44,VCV,F,PositiveNegative,,Initially True Neg,TT
+B,U,S,E,USE,There is a U and,and,there is no S.,T2.14,VCV,F,PositiveNegative,,Initially True Neg,TT
+A,V,A,N,VAN,There is a V so,so,there is no N.,T1.54,CVC,F,PositiveNegative,,,
+B,V,A,N,VAN,There is a V and,and ,there is no S.,T2.20,CVC,J,PositiveNegative,,Initially True Neg,TT
+A,V,I,A,VIA,There is no P but,filler but ,there is no A.,Filler1.27,CVV,F,NegativeNegative,,,
+B,V,I,A,VIA,There is a V so ,so,there is no P.,T2.51,VCV,J,PositiveNegative,,Initially True Neg,TT
