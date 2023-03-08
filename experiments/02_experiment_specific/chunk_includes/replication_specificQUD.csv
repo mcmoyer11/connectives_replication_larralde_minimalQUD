@@ -1,0 +1,97 @@
+﻿Group,Screen11,Screen12,Screen13,Word,QUDType,ScreenQUD,Screen2,Screen3,Screen4,Screen5,Screen6,Screen7,Screen8,,,
+A,A,F,T,AFT,Specific,Is there an F or a J?,There is an F and,and,there is no J.,T1.24,VCC,J,PositiveNegative,,Initially True Neg,TF
+B,A,F,T,AFT,Specific,Is there an F or a T?,There is an F but,but,there is a T.,T2.28,VCC,J,PositivePositive,,Initially True Neg,TT
+A,A,L,E,ALE,Specific,Is there an L or a Z?,There is an L and,and,there is no Z.,T1.23,VCV,J,PositiveNegative,,,
+B,A,L,E,ALE,Specific,Is there an A or an L?,There is an A and,and,there is an L.,T2.2,VCV,J,PositivePositive,,,
+A,A,M,I,AMI,Specific,Is there an M or an F?,There is an M but,but,there is no F.,T1.42,VCV,J,PositiveNegative,,Intitially False,FT
+B,A,M,I,AMI,Specific,Is there an M or an F?,There is an M but,but,there is no F.,T2.25,VCV,J,PositiveNegative,,,
+A,A,N,T,ANT,Specific,Is there an N or a V?,There is an N but,but,there is a V.,T1.45,VCC,F,PositivePositive,,Initially True Neg,TT
+A,A,P,E,APE,Specific,Is there a P or an N?,There is a P but,but,there is an N.,T1.41,VCV,F,PositivePositive,,,
+B,A,P,T,APT,Specific,Is there a P or a U?,There is a P and,and,there is a U.,T2.11,VCC,F,PositivePositive,,Initially True Neg,TT
+A,A,R,K,ARK,Specific,Is there an A or a K?,There is an A and,and,there is a K.,T1.16,VCC,J,PositivePositive,,Initially True Neg,TT
+A,A,R,M,ARM,Specific,Is there an R or a J?,There is an R but,but,there is no J.,T1.46,VCC,J,PositiveNegative,,,
+B,A,R,M,ARM,Specific,Is there an A or an M?,There is an A but,but,there is no M.,T2.29,VCC,F,PositiveNegative,,,
+A,A,S,K,ASK,Specific,Is there an S or a K?,There is an S but,but,there is a K.,T1.47,VCC,J,PositivePositive,,Initially True Neg,TT
+B,A,S,P,ASP,Specific,Is there an S or an R?,There is an S but,but,there is no R.,T2.42,VCC,J,PositiveNegative,,Intitially False,FT
+B,A,T,E,ATE,Specific,Is there a T or an E?,There is a T but,but,there is no E.,T2.38,VCV,F,PositiveNegative,,Intitially False,FT
+A,A,X,E,AXE,Specific,Is there an X or an E?,There is an X and,and,there is an E.,T1.13,VCV,J,PositivePositive,,Initially True Neg,TT
+B,B,A,D,BAD,Specific,Is there a B or an A?,There is a B but,but,there is no A.,T2.30,CVC,F,PositiveNegative,,,
+A,B,A,G,BAG,Specific,Is there a B or a G?,There is a B and,and,there is a G.,T1.1,CVC,J,PositivePositive,,Initially True Neg,TT
+A,B,A,Y,BAY,Specific,Is there a B or a Y?,There is a B and,and,there is a Y.,T1.7,CVV,J,PositivePositive,,Intitially False,FT
+A,B,E,D,BED,Specific,Is there a B or an L?,There is a B but,but,there is no L.,T1.25,CVC,J,PositiveNegative,,Intitially False,FT
+B,B,E,D,BED,Specific,Is there a B or an X?,There is a B and,and,there is no X.,T2.24,CVC,J,PositiveNegative,,Initially True Neg,TT
+A,B,O,Y,BOY,Specific,Is there a B or an F?,There is a B but,but,there is no F.,T1.33,CVV,J,PositiveNegative,,Intitially False,FT
+B,B,O,Y,BOY,Specific,Is there a B or an H?,There is a B but,but,there is no H.,T2.33,CVV,J,PositiveNegative,,,
+B,B,U,S,BUS,Specific,Is there a B or a U?,There is a B and,and,there is a U.,T2.7,CVC,J,PositivePositive,,Intitially False,FT
+A,C,A,R,CAR,Specific,Is there a C or an R?,There is a C and,and,there is an R.,T1.2,CVC,J,PositivePositive,,CB,TF
+B,C,A,R,CAR,Specific,Is there a C or an R?,There is a C but,but,there is no R.,T2.48,CVC,F,PositiveNegative,,Initially True Neg,TT
+A,C,U,E,CUE,Specific,Is there a C or a U?,There is a C and,and,there is a U.,T1.8,CVV,J,PositivePositive,,,
+A,D,A,Y,DAY,Specific,Is there a D or an S?,There is a D but,but,there is no S.,T1.34,CVV,J,PositiveNegative,,Initially True Neg,TF
+B,D,A,Y,DAY,Specific,Is there a D or a Y?,There is a D and,and,there is a Y.,T2.13,CVV,J,PositivePositive,,Initially True Neg,TT
+A,D,O,G,DOG,Specific,Is there a D or a V?,There is a D but,but,there is no V.,T1.26,CVC,J,PositiveNegative,,,
+B,D,O,G,DOG,Specific,Is there a D or a K?,There is a D and,and,there is a K.,T2.6,CVC,F,PositivePositive,,Initially True Neg,TF
+A,E,G,O,EGO,Specific,Is there a G or an O?,There is a G but,but,there is an O.,T1.43,VCV,J,PositivePositive,,Initially True Neg,TF
+B,E,G,O,EGO,Specific,Is there a G or an O?,There is a G and,and,there is an O.,T2.16,CVV,J,PositivePositive,,Initially True Neg,TF
+B,E,L,F,ELF,Specific,Is there an L or an N?,There is an L but,but,there is an N.,T2.39,VCC,F,PositivePositive,,,
+A,F,E,Y,FEY,Specific,Is there an E or a Y?,There is an E but,but,there is a Y.,T1.35,CVV,J,PositivePositive,,Initially True Neg,TT
+B,F,O,E,FOE,Specific,Is there an F or an O?,There is an F and,and,there is no O.,T2.10,CVV,F,PositiveNegative,,Intitially False,FT
+A,F,O,X,FOX,Specific,Is there an F or an X?,There is an F but,but,there is an X.,T1.27,CVC,J,PositivePositive,,Initially True Neg,TT
+B,F,O,X,FOX,Specific,Is there an F or a D?,There is an F but,but,there is no D.,T2.46,CVC,J,PositiveNegative,,,
+B,F,U,N,FUN,Specific,Is there an F or a P?,There is an F and,and,there is a P.,T2.15,CVC,F,PositivePositive,,,
+A,G,U,Y,GUY,Specific,Is there a G or a U?,There is a G and,and,there is no U.,T1.9,CVV,F,PositiveNegative,,CB,TF
+B,G,U,Y,GUY,Specific,Is there a G or a Y?,There is a G and,and,there is a Y.,T2.8,CVV,J,PositivePositive,,,
+A,G,Y,M,GYM,Specific,Is there a Y or an M?,There is a Y and,and,there is no M.,T1.3,CVC,F,PositiveNegative,,,
+B,G,Y,M,GYM,Specific,Is there a Y or an A?,There is a Y and,and,there is no A.,T2.21,CVC,J,PositiveNegative,,,
+B,H,E,N,HEN,Specific,Is there an E or an L?,There is an E but,but,there is an L.,T2.45,CVC,F,PositivePositive,,Initially True Neg,TT
+A,H,E,Y,HEY,Specific,Is there an E or a Y?,There is an E but,but,there is a Y.,T1.36,CVV,J,PositivePositive,,,
+A,I,C,Y,ICY,Specific,Is there a C or a Y?,There is a C and,and,there is no Y.,T1.14,VCV,F,PositiveNegative,,,
+B,I,C,Y,ICY,Specific,Is there a C or a Y?,There is a C and,and,there is no Y.,T2.4,VCV,F,PositiveNegative,,,
+B,I,R,E,IRE,Specific,Is there an R or a Q?,There is an R but,but,there is no Q.,T2.26,VCV,J,PositiveNegative,,Intitially False,FT
+A,J,A,M,JAM,Specific,Is there a J or an M?,There is a J but,but,there is an M.,T1.28,CVC,J,PositivePositive,,Initially True Neg,TT
+B,J,A,R,JAR,Specific,Is there a J or an S?,There is a J but,but,there is no S.,T2.34,CVC,J,PositiveNegative,,Initially True Neg,TT
+B,J,A,Y,JAY,Specific,Is there a J or an M?,There is a J and,and,there is no M.,T2.22,CVV,J,PositiveNegative,,Initially True Neg,TF
+A,K,I,T,KIT,Specific,Is there a K or a T?,There is a K and,and,there is no T.,T1.4,CVC,F,PositiveNegative,,Initially True Neg,TT
+B,K,I,T,KIT,Specific,Is there a K or a T?,There is a K and,and,there is no T.,T2.9,CVC,F,PositiveNegative,,CB,TF
+A,L,A,Y,LAY,Specific,Is there an L or a Y?,There is an L and,and,there is no Y.,T1.10,CVV,F,PositiveNegative,,Initially True Neg,TT
+B,L,A,Y,LAY,Specific,Is there an L or a Y?,There is an L and,and,there is no Y.,T2.3,CVV,F,PositiveNegative,,Initially True Neg,TT
+B,L,E,Y,LEY,Specific,Is there an L or a P?,There is an L and,and,there is no P.,T2.23,CVV,J,PositiveNegative,,Intitially False,FT
+A,M,A,P,MAP,Specific,Is there an A or a C?,There is an A and,and,there is a C.,T1.5,CVC,F,PositivePositive,,Initially True Neg,TF
+A,M,O,P,MOP,Specific,Is there an O or a P?,There is an O but,but,there is no P.,T1.29,CVC,F,PositiveNegative,,Initially True Neg,TF
+B,M,O,P,MOP,Specific,Is there an O or a P?,There is an O and,and,there is no P.,T2.17,CVC,F,PositiveNegative,,Intitially False,FT
+B,O,D,E,ODE,Specific,Is there a D or an E?,There is a D but,but,there is an E.,T2.43,VCV,J,PositivePositive,,Initially True Neg,TF
+B,O,F,T,OFT,Specific,Is there an O or a Y?,There is an O and,and,there is a Y.,T2.12,VCC,F,PositivePositive,,CB,TF
+A,O,L,D,OLD,Specific,Is there an L or a P?,There is an L and,and,there is a P.,T1.18,VCC,F,PositivePositive,,CB,TF
+A,O,N,E,ONE,Specific,Is there an N or an A?,There is an N and,and,there is an A.,T1.15,VCV,F,PositivePositive,,Initially True Neg,TT
+A,O,P,T,OPT,Specific,Is there a P or a T?,There is a P and,and,there is no T.,T1.17,VCC,F,PositiveNegative,,,
+B,O,P,T,OPT,Specific,Is there a P or a K?,There is a P but,but,there is a K.,T2.40,VCC,F,PositivePositive,,Initially True Neg,TT
+A,P,A,Y,PAY,Specific,Is there a P or a K?,There is a P and,and,there is a K.,T1.11,CVV,F,PositivePositive,,,
+A,P,E,A,PEA,Specific,Is there a P or an E?,There is a P but,but,there is no E.,T1.37,CVV,F,PositiveNegative,,,
+B,P,E,A,PEA,Specific,Is there a P or an E?,There is a P but,but,there is an E.,T2.35,CVV,J,PositivePositive,,,
+A,P,I,T,PIT,Specific,Is there a P or a V?,There is a P and,and,there is a V.,T1.6,CVC,F,PositivePositive,,,
+B,R,A,Y,RAY,Specific,Is there an R or a Y?,There is an R and,and,there is a Y.,T2.1,CVV,J,PositivePositive,,Initially True Neg,TT
+A,R,E,D,RED,Specific,Is there an R or a D?,There is an R but,but,there is no D.,T1.30,CVC,F,PositiveNegative,,Initially True Neg,TT
+B,R,E,D,RED,Specific,Is there an E or a V?,There is an E but,but,there is a V.,T2.41,CVC,F,PositivePositive,,Intitially False,FT
+A,R,O,E,ROE,Specific,Is there an O or an I?,There is an O and,and,there is an I.,T1.12,CVV,F,PositivePositive,,,
+A,R,U,G,RUG,Specific,Is there a U or a C?,There is a U and,and,there is no C.,T1.19,CVC,J,PositiveNegative,,Initially True Neg,TT
+B,R,U,G,RUG,Specific,Is there a U or a G?,There is a U but,but,there is no G.,T2.44,CVC,F,PositiveNegative,,,
+A,R,U,N,RUN,Specific,Is there a U or an S?,There is a U but,but,there is an S.,T1.31,CVC,F,PositivePositive,,Initially True Neg,TF
+A,R,Y,E,RYE,Specific,Is there a Y or an E?,There is a Y but,but,there is no E.,T1.38,CVV,F,PositiveNegative,,,
+B,R,Y,E,RYE,Specific,Is there a Y or an E?,There is a Y but,but,there is an E.,T2.36,CVV,J,PositivePositive,,,
+B,S,A,Y,SAY,Specific,Is there an S or a Y?,There is an S but,but,there is a Y.,T2.47,CVV,J,PositivePositive,,,
+A,S,E,A,SEA,Specific,Is there an S or a K?,There is an S and,and,there is no K.,T1.21,CVV,J,PositiveNegative,,Initially True Neg,TF
+B,S,E,A,SEA,Specific,Is there an S or an A?,There is an S but,but,there is an A.,T2.27,CVV,J,PositivePositive,,Initially True Neg,TF
+B,S,I,P,SIP,Specific,Is there an S or a J?,There is an S but,but,there is a J.,T2.31,CVC,F,PositivePositive,,Initially True Neg,TT
+A,S,O,Y,SOY,Specific,Is there an S or a U?,There is an S but,but,there is a U.,T1.39,CVV,F,PositivePositive,,,
+B,S,U,E,SUE,Specific,Is there a U or an E?,There is a U but,but,there is no E.,T2.37,CVV,F,PositiveNegative,,Initially True Neg,TT
+A,T,A,B,TAB,Specific,Is there a T or an F?,There is a T and,and,there is no F.,T1.20,CVC,J,PositiveNegative,,Initially True Neg,TF
+B,T,A,B,TAB,Specific,Is there a T or a G?,There is a T but,but,there is a G.,T2.32,CVC,F,PositivePositive,,Initially True Neg,TF
+A,T,I,E,TIE,Specific,Is there a T or an N?,There is a T and,and,there is no N.,T1.22,CVV,J,PositiveNegative,,,
+B,T,I,E,TIE,Specific,Is there a T or an A?,There is a T and,and,there is a A.,T2.18,CVV,F,PositivePositive,,Initially True Neg,TT
+A,T,I,N,TIN,Specific,Is there a T or an F?,There is a T but,but,there is an F.,T1.32,CVC,F,PositivePositive,,,
+A,T,O,E,TOE,Specific,Is there a T or an A?,There is a T but,but,there is an A.,T1.40,CVV,F,PositivePositive,,,
+B,T,O,Y,TOY,Specific,Is there a T or a V?,There is a T and,and,there is a V.,T2.5,CVV,F,PositivePositive,,,
+A,U,R,N,URN,Specific,Is there a U or an N?,There is a U but,but,there is no N.,T1.48,VCC,F,PositiveNegative,,Initially True Neg,TT
+B,U,R,N,URN,Specific,Is there a U or an M?,There is a U and,and,there is no M.,T2.19,VCC,J,PositiveNegative,,Initially True Neg,TF
+A,U,S,E,USE,Specific,Is there a U or an S?,There is a U but,but,there is no S.,T1.44,VCV,F,PositiveNegative,,Initially True Neg,TT
+B,U,S,E,USE,Specific,Is there a U or an S?,There is a U and,and,there is no S.,T2.14,VCV,F,PositiveNegative,,Initially True Neg,TT
+B,V,A,N,VAN,Specific,Is there a V or an S?,There is a V and,and,there is no S.,T2.20,CVC,J,PositiveNegative,,Initially True Neg,TT
