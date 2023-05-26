@@ -1,0 +1,5 @@
+Screen11,Screen12,Screen13,SpecificQUD,GeneralQUD,FirstConj,SecondConj,Word,Answer
+R,U,G,Is there an A or a U?,What letters are there?,There is an A or,there is no U.,RUG,F
+C,A,T,Is there a C or a K?,What letters are there?,There is a C or,there is a K.,CAT,J
+B,I,N,Is there a V or an N?,What letters are there?,There is a V or,there is an N.,BIN,J
+P,E,N,Is there a Q or a K?,What letters are there?,There is a Q or,there is a K.,PEN,F

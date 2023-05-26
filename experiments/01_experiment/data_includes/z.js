@@ -1,13 +1,13 @@
 newTrial( "intro" ,
-    newImage("logo-ucl.jpg")
-    .size( 300,100 )      // Resize the image to 150x250px
+    newImage("paris-labs.png")
+    .size( 600,100 )      // Resize the image to 150x250px
     .center()
       .print(),
     newText("<p>WELCOME!")
     .settings.css("font-size","20")
     .center()
     .print(),
-    newText("<p>The following experiment is conducted by the Division of Psychology and Language Sciences at University College London.</p>")
+    newText("<p>The following experiment is conducted by the Laboratoire de Linguistique Formelle (LLF) associated with Université Paris-Cité and the Centre National de la Recherche Scientifique (CNRS).</p>")
     .settings.css("font-size","15")
     .center()
     .print(),

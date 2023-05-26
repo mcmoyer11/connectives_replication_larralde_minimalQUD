@@ -4,15 +4,18 @@ newTrial("game1",
     newText("In this game, the player is given nine letter tiles and tries to make a robot 'guess' a three letter word formed with the letters on the tiles. ")
     .print(),
     newText("<br> ").center().print(),
-    newText("To do so, the player gives the robot hints about two of the letters in that word as can be seen on the figure below.")
+    newText("The robot will ask the player a question, then the player gives the robot hints about two of the letters in that word as can be seen on the figure below.")
     .print(),
+    newText("<br> ").center().print(),
     newText("Our robot is well trained to take into account the letter tiles available when making a guess. However it still does not reliably use the hints provided by the player.")
     .print(),
     newText("<br> ").center().print(),
-    newText("In the task that you are about to complete, you will see hints given by players and will then be asked if the word guessed by the robot matches the hint. Your feedback will be used by our robot to improve its predictions.")
+    newText("In the task that you are about to complete, you will see questions asked by the robot and hints given by players.").print(), 
+    newText("<br> ").center().print(),
+    newText("You will then be asked if the word guessed by the robot matches the hint. Your feedback will be used by our robot to improve its predictions.")
     .print(),
     newText("<br> ").center().print(),
-    newImage("Pic_exp_pres.png")
+    newImage("Pic_exp_pres_QUD.png")
     .size( 500,207 )      // Resize the image to 150x250p
     .center().print(),
     newText("<br> ").center().print(),

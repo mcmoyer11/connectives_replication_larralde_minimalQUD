@@ -1,0 +1,43 @@
+Screen11,Screen12,Screen13,SpecificQUD,GeneralQUD,FirstConj,SecondConj,Answer,Feedback
+P,R,O,Is there a P or a T?,What letters are there?,There is a P or,there is a T.,x,J
+M,A,T,Is there an N or an R?,What letters are there?,There is an N or,there is an R.,x,F
+B,A,T,Is there a B or a T?,What letters are there?,There is a B or,there is no T.,x,F
+P, I,T,Is there a P or an E?,What letters are there?,There is a P or,there is an E.,x,J
+D,O,T,Is there a D or a V?,What letters are there?,There is a D or,there is a V. ,x,J
+C,U,T,Is there a C or a T?,What letters are there?,There is a C or,there is no T.,x,J
+C,A,N,Is there a K or an N?,What letters are there?,There is a K or,there is no N.,x,F
+P,R,O,Is there a G or a R?,What letters are there?,There is a G or,there is no R.,x,F
+M,A,T,Is there an M or a P?,What letters are there?,There is an M or,there is no P.,x,J
+B,A,T,Is there a P or a T?,What letters are there?,There is a P or,there is a T.,x,J
+P, I,T,Is there a D or an A?,What letters are there?,There is a D or,there is an A.,x,F
+B,E,D,Is there a T or a B?,What letters are there?,There is a T or,there is no B. ,F,F
+C,U,T,Is there a B or a T?,What letters are there?,There is a B or,there is no T.,F,F
+C,R,Y,Is there a C or an N?,What letters are there?,There is a C or,there is an N.,J,J
+P,R,O,Is there a U or an R?,What letters are there?,There is a U or,there is an R.,J,J
+M,A,T,Is there a K or a T?,What letters are there?,There is a K or,there is a T.,J,J
+B,A,T,Is there a C or a T?,What letters are there?,There is a C or,there is no T.,F,F
+P,I,T,Is there a W or an E?,What letters are there?,There is a W or,there is an E.,F,F
+D,O,T,Is there a D or a V?,What letters are there?,There is a D or,there is no V. ,J,J
+C,U,T,Is there an L or a T?,What letters are there?,There is an L or,there is no T.,F,F
+C,A,N,Is there a C or an N?,What letters are there?,There is a C or,there is an N.,J,J
+P,R,O,Is there a J or an R?,What letters are there?,There is a J or,there is no R.,F,F
+M,A,T,Is there an M or a P?,What letters are there?,There is an M or,there is no P.,J,J
+B,A,T,Is there a B or a Q?,What letters are there?,There is a B or,there is a Q.,J,J
+P, I,T,Is there a D or an E?,What letters are there?,There is a D or,there is an E.,F,F
+B,E,D,IS there a D or a B?,What letters are there?,There is no D or,there is a B. ,J,J
+C,U,T,Is there a V or a T?,What letters are there?,There is a V or,there is no T.,F,F
+C,R,Y,Is there an I or an N?,What letters are there?,There is an I or,there is an N.,F,F
+P,R,O,Is there a P or an A?,What letters are there?,There is a P or,there is an A.,J,J
+M,A,T,Is there an M or an X?,What letters are there?,There is an M or,there is an X.,J,J
+B,A,T,Is there an L or a T?,What letters are there?,There is an L or,there is no T.,F,F
+P, I,T,Is there a B or an E?,What letters are there?,There is a B or,there is an E.,F,F
+D,O,T,Is there a D or a T?,What letters are there?,There is a D or,there is no T. ,J,J
+C,U,T,Is there an M or a T?,What letters are there?,There is an M or,there is no T.,F,F
+C,A,N,Is there a P or an N?,What letters are there?,There is a P or,there is an N.,J,J
+P,R,O,Is there a C or an R?,What letters are there?,There is a C or,there is no R.,F,F
+M,A,T,Is there an E or a P?,What letters are there?,There is an E or,there is no P.,J,J
+B,A,T,Is there a B or an N?,What letters are there?,There is a B or,there is an N.,J,J
+P,I,T,Is there an R or a Y?,What letters are there?,There is an R or,there is a Y.,F,F
+B,E,D,Is there a D or a V?,What letters are there?,There is a D or,there is a V. ,J,J
+C,U,T,Is there an F or a T?,What letters are there?,There is an F or,there is no T.,F,F
+C,R,Y,Is there an E or an N?,What letters are there?,There is an E or,there is an N.,F,F
